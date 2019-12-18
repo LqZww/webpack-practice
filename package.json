@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "dependencies": {
+    "mem": "^6.0.0",
     "vue": "^2.6.11"
   },
   "devDependencies": {
